@@ -1,0 +1,6 @@
+D:\DalakFork\DalakGITApp\DalakGITConsole\bin\Debug\DalakGITConsole.exe
+D:\DalakFork\DalakGITApp\DalakGITConsole\bin\Debug\DalakGITConsole.pdb
+D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.csprojAssemblyReference.cache
+D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.csproj.CoreCompileInputs.cache
+D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.exe
+D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.pdb

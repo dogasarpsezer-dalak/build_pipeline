@@ -1,0 +1,12 @@
+D:\DalakFork\DalakGITApp\DalakGIT\bin\Debug\net5.0\DalakGIT.deps.json
+D:\DalakFork\DalakGITApp\DalakGIT\bin\Debug\net5.0\DalakGIT.dll
+D:\DalakFork\DalakGITApp\DalakGIT\bin\Debug\net5.0\ref\DalakGIT.dll
+D:\DalakFork\DalakGITApp\DalakGIT\bin\Debug\net5.0\DalakGIT.pdb
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\DalakGIT.csproj.AssemblyReference.cache
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\DalakGIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\DalakGIT.AssemblyInfoInputs.cache
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\DalakGIT.AssemblyInfo.cs
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\DalakGIT.csproj.CoreCompileInputs.cache
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\DalakGIT.dll
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\ref\DalakGIT.dll
+D:\DalakFork\DalakGITApp\DalakGIT\obj\Debug\net5.0\DalakGIT.pdb
