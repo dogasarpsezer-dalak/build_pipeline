@@ -4,3 +4,9 @@ D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.csprojAssembl
 D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.csproj.CoreCompileInputs.cache
 D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.exe
 D:\DalakFork\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.pdb
+D:\BuildRepo\build_pipeline\DalakGITApp\DalakGITConsole\bin\Debug\DalakGITConsole.exe
+D:\BuildRepo\build_pipeline\DalakGITApp\DalakGITConsole\bin\Debug\DalakGITConsole.pdb
+D:\BuildRepo\build_pipeline\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.csprojAssemblyReference.cache
+D:\BuildRepo\build_pipeline\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.csproj.CoreCompileInputs.cache
+D:\BuildRepo\build_pipeline\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.exe
+D:\BuildRepo\build_pipeline\DalakGITApp\DalakGITConsole\obj\Debug\DalakGITConsole.pdb
